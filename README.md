@@ -137,3 +137,7 @@ if (control) {
 - **Sincronización**: Mantén tus componentes sincronizados mediante eventos de registro.
 - **Flexibilidad**: Añade y manipula formularios y controles dinámicamente.
 - **Simplicidad**: Evita la complejidad de las soluciones existentes con una API clara y directa.
+
+## Licencia
+
+Este proyecto está licenciado bajo la [MIT License](https://www.post-ai.io/LICENSE).
