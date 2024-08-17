@@ -48,7 +48,15 @@ Si te enfrentas a la necesidad de manejar múltiples formularios distribuidos en
 
 Angular es conocido por ser un framework detallado y, a veces, verboso. Para ahorrar horas de programación y reducir la complejidad, he desarrollado esta solución basada en mis años de experiencia como programador. Esta herramienta está diseñada para optimizar tiempos y simplificar el desarrollo.
 
-NOTA: **Angular** es conocido por ser un framework detallado y, a veces, verboso. Para **ahorrar horas de programación** y **reducir la complejidad**, he desarrollado esta solución basada en mis años de experiencia como programador. Esta herramienta está diseñada para **optimizar tiempos** y **simplificar el desarrollo**.
+<br/>
+
+>
+>**NOTA:** Angular es conocido por ser un framework detallado y, a veces, verboso. Para **ahorrar horas de programación** y **reducir la complejidad**, he desarrollado esta solución basada en mis años de experiencia como programador. Esta herramienta está diseñada para **optimizar tiempos** y **simplificar el desarrollo**.
+>
+>
+
+<br/>
+
 
 ## Características Principales
 
@@ -511,3 +519,4 @@ export class PeritajeIngresoFormService {
 ## Licencia
 
 Este proyecto está licenciado bajo la [MIT License](https://www.post-ai.io/LICENSE).
+
