@@ -96,6 +96,12 @@ Aunque existen otras soluciones, este servicio aborda un problema específico de
 
 La combinación de registro dinámico de formularios y controles, emisión de eventos y obtención de controles anidados proporciona una flexibilidad y control que puede ser muy útil en aplicaciones complejas.
 
+## Demostración
+
+Para ver una demostración en vivo de cómo funciona el `FormService`, puedes visitar el siguiente enlace:
+
+[Ver Demostración en StackBlitz](https://stackblitz.com/edit/stackblitz-starters-ua8a9k)
+
 
 ## Instalación
 
