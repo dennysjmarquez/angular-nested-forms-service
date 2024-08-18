@@ -249,7 +249,7 @@ interface FormEvent {
  *   private formEventSubscription: Subscription;
  *
  *   constructor(
- *     private formService: PeritajeIngresoFormService
+ *     private formService: FormService
  *   ) {}
  *
  *   ngAfterViewInit() {
@@ -281,7 +281,7 @@ interface FormEvent {
  *   templateUrl: './hijo.component.html',
  * })
  * export class HijoComponent {
- *   constructor(private formService: PeritajeIngresoFormService) {
+ *   constructor(private formService: FormService) {
  *     // Se usa la misma instancia del servicio en los hijos sin usar en los hijos nietos etc.
  *     providers: [FormService]
  *   }
@@ -291,7 +291,7 @@ interface FormEvent {
 @Injectable({
 	providedIn: 'root',
 })
-export class PeritajeIngresoFormService {
+export class FormService {
 	private readonly mainForm: FormGroup;
 	private formEventSubject = new Subject<FormEvent>();
 
