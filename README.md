@@ -221,6 +221,7 @@ interface FormEvent {
 }
 
 /**
+ * Servicio para gestionar formularios anidados y sus controles.
  *
  * Este servicio resuelve la problemática de gestionar formularios anidados entre componentes.
  * Permite centralizar la gestión de formularios y sus controles, facilitando la interacción
@@ -287,6 +288,14 @@ interface FormEvent {
  *   }
  * }
  * ```
+ *
+ * @author
+ * Nombre del Autor: Dennys Jose Marquez Reyes - dennysjmarquez
+ * Contacto: dennysjmarquez@gmail.com
+ * Sitio Web: https://dennysjmarquez.dev/
+ * 
+ * @repository
+ * URL del Repositorio: https://github.com/dennysjmarquez/angular-nested-forms-service
  */
 @Injectable({
 	providedIn: 'root',
