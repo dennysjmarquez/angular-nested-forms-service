@@ -1,4 +1,4 @@
-# angular-nested-forms-service
+# Angular nested forms service - Angular Forms anidados
 Servicio Angular diseñado para gestionar formularios anidados de manera eficiente y centralizada. Ideal para aplicaciones complejas, este servicio facilita la interacción entre componentes padres, hijos y nietos dentro de un único formulario principal, asegurando la integridad y sincronización de los datos.
 
 Este es una solución robusta y bien pensada para gestionar formularios anidados en aplicaciones Angular. 
